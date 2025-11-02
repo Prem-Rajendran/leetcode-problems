@@ -1,3 +1,4 @@
 .idea
-leetcode-problems.iml
+*.iml
 out
+target
