@@ -1,7 +1,4 @@
 package com.dailychallenge.problem3542;
-
-import java.util.HashSet;
-import java.util.Set;
 import java.util.TreeSet;
 
 public class Solution {
